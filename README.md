@@ -3,4 +3,4 @@
 
 A custom shell built in Python.
 
-![Demo](resim.png)
+![Demo](yash-demo.png)
