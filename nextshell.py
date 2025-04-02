@@ -106,7 +106,7 @@ def complete_command(text, state):
 readline.set_completer(complete_command)
 
 if __name__ == "__main__":
-    os.environ["SHELL"] = "/usr/bin/nextshell"  # Write the full path of NextShell here
+    os.environ["SHELL"] = "/usr/bin/nsh"
 
     print(f"NextShell - Running on {DISTRO_NAME} operating system.")
     while True:
