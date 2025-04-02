@@ -1,6 +1,4 @@
-# YaSH (Yet Another Shell)
-![My Image](yash.png)
-
+# NextShell (NSH)
 A custom shell built in Python.
 
-![Demo](yash-demo.png)
+![Demo](nsh-demo.png)
