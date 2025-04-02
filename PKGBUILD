@@ -16,5 +16,5 @@ build() {
 
 package() {
   cd "$srcdir"
-  install -Dm755 nsh.py "$pkgdir/usr/bin/nsh"
+  install -Dm755 nextshell.py "$pkgdir/usr/bin/nsh"
 }
