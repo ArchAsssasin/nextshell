@@ -1,4 +1,4 @@
-r# Maintainer = ArchAssasin <archassasin@outlook.com>
+# Maintainer = ArchAssasin <archassasin@outlook.com>
 
 pkgname=nextshell
 pkgver=1.0.0
